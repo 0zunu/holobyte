@@ -1,9 +1,11 @@
 # 🦖 Holobytes Hunter
+
 This is a pegasaurus badge that grows over time, from a mere egg into an amazing software developer.
 
-![image](screenshots/holobyte.blog.jpg)
+![image](screenshots/holobyte-new.png)
 
-## Support me as a programmer 
+## Support me as a programmer
+
 <table>
     <tr>
       <th>Rp. 5k Minimum</th>
@@ -18,5 +20,6 @@ This is a pegasaurus badge that grows over time, from a mere egg into an amazing
     </tr>
   </table>
 
-  ## Credits
-  > make sure to credit me!
+## Credits
+
+> make sure to credit me!
