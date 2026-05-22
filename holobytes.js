@@ -51,6 +51,8 @@ const main = async () => {
   }
 
   console.log(`HoloBytes hunted: ${Object.keys(holoBytesLinks).length}`);
+  const loading = document.getElementById("loading");
+  if (loading) loading.style.display = "none";
   for (const [_url, element] of Object.entries(holoBytesLinks)) {
     let li = document.createElement("li");
     let a = document.createElement("a");
